@@ -13,3 +13,4 @@
 
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
+#sed -i '$a src-git lrdrdn https://github.com/lrdrdn/my-opkg-repo' feeds.conf.default
